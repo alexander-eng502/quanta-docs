@@ -2,7 +2,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information -----------------------------------------------------
-project = 'Quanta'
+project = 'Searchify'
 copyright = '2024, Rander'
 author = 'Rander'
 release = '1.0.0'
